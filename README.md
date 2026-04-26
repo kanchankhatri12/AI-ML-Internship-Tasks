@@ -71,7 +71,3 @@ The Iris dataset provides a simple yet powerful way to understand classification
 
 3. Run the notebook or script
 
-
-
-
-Your Name
